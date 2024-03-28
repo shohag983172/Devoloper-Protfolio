@@ -43,3 +43,8 @@ section {
 .bg {
   background-image: url(bg-color.png);
 }
+
+.marque-style {
+  color: orangered;
+
+}
