@@ -1,0 +1,44 @@
+body {
+
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 45px;
+}
+
+.Orenge-color {
+  color: orange;
+
+}
+
+section {
+  display: flex;
+}
+
+.lol {
+  width: 60%;
+
+}
+
+.lol img {
+  width: 100%;
+
+}
+
+.link-buttom {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+}
+
+.link-buttom {
+  padding: 10px 40px;
+  border-radius: 5px;
+}
+
+.bg {
+  background-image: url(bg-color.png);
+}
