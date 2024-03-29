@@ -14,7 +14,7 @@ h1 {
 
 }
 
-section {
+.flaxibele-container {
   display: flex;
 }
 
@@ -47,4 +47,16 @@ section {
 .marque-style {
   color: orangered;
 
+}
+
+.Experience-item {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 10px;
+  box-shadow: 10px 10px 40px gray;
+}
+
+h2 {
+  font-size: 35px;
 }
