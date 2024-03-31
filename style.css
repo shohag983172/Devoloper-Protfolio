@@ -55,8 +55,26 @@ h1 {
   margin-right: 5%;
   padding: 10px;
   box-shadow: 10px 10px 40px gray;
+
 }
 
 h2 {
   font-size: 35px;
+}
+
+#web-dev-experiance {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+#Full-stack-experience {
+  border-left: 7px solid;
+  border-image: linear-gradient(orange, tomato);
+  border-image-slice: 1;
+}
+
+.foter-style {
+  text-align: center;
+  color: red;
 }
